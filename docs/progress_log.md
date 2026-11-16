@@ -1,8 +1,8 @@
 # Project progress log
 
 - [x] Repository created and initial synthetic dataset / SQL scaffold published.
-- [ ] Run data-generation script independently on the local computer.
-- [ ] Run Python unit tests and understand what each check validates.
+- [x] Run data-generation script independently on the local computer (verified from PowerShell output).
+- [x] Run Python unit tests; all five checks passed locally (verified from PowerShell output).
 - [ ] Install PostgreSQL and import all four CSV files.
 - [ ] Execute SQL queries and confirm row counts in the database.
 - [ ] Explain at least three queries in your own words.
